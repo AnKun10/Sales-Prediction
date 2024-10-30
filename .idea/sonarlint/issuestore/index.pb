@@ -5,3 +5,5 @@ K
 .github/workflows/build.yml,f\e\fe77d5d1439f26e353a42bbd38dece2467ff6558
 H
 sonar-project.properties,2\5\2538046035efb77ecc44e1fd2eec1e2641594d4c
+X
+(Sales_Prediction_Linear_Regression.ipynb,f\3\f350a2c2a6af9ebfb8683e1b66943c8eebdade0e
